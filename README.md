@@ -2,3 +2,5 @@
 
 
 ####  Exercício 01 <br> Criando uma implementaçao de duas classes e instanciando objetos, utilizando construtores e com atributos públicos, sem nenhum tratamento ou validação.
+
+#### Exercicio 02 - Criar um Crud com php e mysql
